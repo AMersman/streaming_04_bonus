@@ -17,3 +17,6 @@ The data was found on kaggle at [https://www.kaggle.com/datasets/dev7halo/wine-i
 
 The processes will run until the end of the input file is reached or until the process is manually stopped. (This can be done by hitting CTRL + c)
 The messages transmitted will now be in the respective CSV files.
+
+# Processing
+<img width="1440" alt="Screen Shot 2023-09-17 at 11 25 44 AM" src="https://github.com/AMersman/streaming_04_bonus/assets/91644580/8a2665d4-c96c-487b-9f33-955105136aad">
